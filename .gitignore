@@ -4,7 +4,6 @@
 !/**/.gitkeep
 *.iml
 .idea
-.vscode/*
 data/assets/ssl-example/*
 data/assets/ssl/*
 data/conf/borgmatic/
